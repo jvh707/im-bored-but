@@ -1,2 +1,2 @@
 # im-bored-but
-For when I'm bored and don't know what to do with my time but also think it would be nice to learn something new
+For when you're bored, don't know what to do with your time, and think it'd be nice to learn something new but don't want to decide what that something is.
